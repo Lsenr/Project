@@ -158,6 +158,14 @@
     <ClCompile Include="VI-2.cpp" />
     <ClCompile Include="VI-3.cpp" />
     <ClCompile Include="VI-4.cpp" />
+    <ClCompile Include="VI-5.cpp" />
+    <ClCompile Include="VII-1.cpp" />
+    <ClCompile Include="VII-2.cpp" />
+    <ClCompile Include="VII-3.cpp" />
+    <ClCompile Include="VII-4.cpp" />
+    <ClCompile Include="VII-5.cpp" />
+    <ClCompile Include="VII-6.cpp" />
+    <ClCompile Include="VII-7.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
