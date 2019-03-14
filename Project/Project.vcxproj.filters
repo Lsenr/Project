@@ -69,9 +69,6 @@
     <ClCompile Include="VI-2.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
-    <ClCompile Include="VII-4.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="VI-3.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
@@ -95,6 +92,15 @@
     </ClCompile>
     <ClCompile Include="VII-7.cpp">
       <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VII-4.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="菱形输出.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="大炮打蚊子.c">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

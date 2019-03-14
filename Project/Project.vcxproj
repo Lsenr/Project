@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="大炮打蚊子.c" />
+    <ClCompile Include="菱形输出.cpp" />
     <ClCompile Include="III-1.cpp" />
     <ClCompile Include="III-2.cpp" />
     <ClCompile Include="III-3.cpp" />
