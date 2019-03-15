@@ -67,7 +67,7 @@
 //	}
 //	return 0;
 //}
-/*去除输出调试之后*/
+///*去除输出调试之后*/
 //#include <stdio.h>
 //int main() {
 //	char B[21][21], tempc;
@@ -89,7 +89,6 @@
 //			else if (B[i][j] == '\n')L[j][i] = 4;
 //		}
 //	}
-//	printf("\n");
 //	scanf("%d", &k);
 //	int kn[401], km[401];
 //	int ktemp = k;
