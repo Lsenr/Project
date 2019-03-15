@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 int main() {
 	char B[21][21],tempc;
 	int L[21][21];
