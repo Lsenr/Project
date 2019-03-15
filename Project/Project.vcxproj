@@ -141,33 +141,6 @@
   <ItemGroup>
     <ClCompile Include="大炮打蚊子.c" />
     <ClCompile Include="菱形输出.cpp" />
-    <ClCompile Include="III-1.cpp" />
-    <ClCompile Include="III-2.cpp" />
-    <ClCompile Include="III-3.cpp" />
-    <ClCompile Include="III-4.cpp" />
-    <ClCompile Include="III-5.cpp" />
-    <ClCompile Include="III-6.cpp" />
-    <ClCompile Include="III-7.cpp" />
-    <ClCompile Include="III-8.cpp" />
-    <ClCompile Include="IV-1.cpp" />
-    <ClCompile Include="IV-2.cpp" />
-    <ClCompile Include="IV-3.cpp" />
-    <ClCompile Include="IV-4.cpp" />
-    <ClCompile Include="IV-5.cpp" />
-    <ClCompile Include="IV-6.cpp" />
-    <ClCompile Include="IV-7.cpp" />
-    <ClCompile Include="VI-1.cpp" />
-    <ClCompile Include="VI-2.cpp" />
-    <ClCompile Include="VI-3.cpp" />
-    <ClCompile Include="VI-4.cpp" />
-    <ClCompile Include="VI-5.cpp" />
-    <ClCompile Include="VII-1.cpp" />
-    <ClCompile Include="VII-2.cpp" />
-    <ClCompile Include="VII-3.cpp" />
-    <ClCompile Include="VII-4.cpp" />
-    <ClCompile Include="VII-5.cpp" />
-    <ClCompile Include="VII-6.cpp" />
-    <ClCompile Include="VII-7.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
