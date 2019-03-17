@@ -21,8 +21,11 @@
     <ClCompile Include="大炮打蚊子.c">
       <Filter>资源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test.c">
-      <Filter>源文件</Filter>
+    <ClCompile Include="倒数第N个字符串.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="螺旋方阵.c">
+      <Filter>资源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
