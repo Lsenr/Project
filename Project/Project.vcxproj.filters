@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="菱形输出.cpp">
-      <Filter>资源文件</Filter>
-    </ClCompile>
     <ClCompile Include="大炮打蚊子.c">
       <Filter>资源文件</Filter>
     </ClCompile>
@@ -25,6 +22,18 @@
       <Filter>资源文件</Filter>
     </ClCompile>
     <ClCompile Include="螺旋方阵.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="菱形输出.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查找单价最高和最低的书籍.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2017Final 圆周率山.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印沙漏.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
   </ItemGroup>

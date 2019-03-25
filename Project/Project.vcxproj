@@ -139,9 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2017Final 圆周率山.cpp" />
     <ClCompile Include="倒数第N个字符串.c" />
     <ClCompile Include="大炮打蚊子.c" />
-    <ClCompile Include="菱形输出.cpp" />
+    <ClCompile Include="打印沙漏.cpp" />
+    <ClCompile Include="查找单价最高和最低的书籍.cpp" />
+    <ClCompile Include="菱形输出.c" />
     <ClCompile Include="螺旋方阵.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
